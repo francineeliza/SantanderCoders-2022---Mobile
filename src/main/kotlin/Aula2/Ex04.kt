@@ -1,3 +1,4 @@
+package Aula2
 fun main() {
     print("Digite o número de eleitores:")
     var eleitores: Int = readln().toInt()

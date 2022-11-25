@@ -1,3 +1,4 @@
+package Aula1
 fun main() {
 
     println("Digite a primeira nota:")

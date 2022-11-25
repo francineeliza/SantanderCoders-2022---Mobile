@@ -1,3 +1,4 @@
+package Aula1
 fun main(){
     println("Informe o valor da base de um triangulo")
     val base: Int = readln().toInt()

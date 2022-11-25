@@ -1,3 +1,4 @@
+package Aula2
 fun main(){
     println("Informe um número inteiro positivo:")
     var numero: Int = readln().toInt()

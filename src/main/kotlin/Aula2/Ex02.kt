@@ -1,3 +1,4 @@
+package Aula2
 fun main() {
 
     print("Digite um número: ")

@@ -1,3 +1,4 @@
+package Aula2
 fun main() {
 
     println("Digite 10 valores:")
